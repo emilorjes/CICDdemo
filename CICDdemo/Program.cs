@@ -8,6 +8,7 @@ namespace CICDdemo
         {
             Console.WriteLine("Hello World!");
             Console.WriteLine(Add(5,8));
+            Console.WriteLine(Add(5,8));
             Console.WriteLine(Sub(10,5));
         }
 
