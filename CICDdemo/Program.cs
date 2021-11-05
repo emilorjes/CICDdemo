@@ -18,7 +18,7 @@ namespace CICDdemo
 
         public static int Sub(int a, int b)
         {
-            return a - b;
+            return a  b;
         }
     }
 }
