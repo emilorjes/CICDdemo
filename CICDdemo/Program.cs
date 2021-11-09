@@ -12,6 +12,7 @@ namespace CICDdemo
             Console.WriteLine(Sub(10,5));
             Console.WriteLine(Sub(10,5));
             Console.WriteLine(Sub(10,5));
+            Console.WriteLine(Sub(10,5));
         }
 
         public static int Add(int a, int b)
